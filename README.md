@@ -1,6 +1,7 @@
 # vmrBooking
 
 ## Installing
+´´´
 sudo apt-get install php7.2
 
 sudo apt-get install php7.2-xml
@@ -12,6 +13,7 @@ git clone https://github.com/fredvunkiktkhk/vmrBooking.git
 composer install
 
 mkdir database
+´´´
 
 ## Deployment
 
