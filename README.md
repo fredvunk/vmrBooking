@@ -11,6 +11,6 @@ Open terminal/git bash in project folder and write these commands.
 * mkdir database
 ## Deployment
 Open terminal/git bash in project folder and write this command.
-php -S localhost:8000 -t web
+* php -S localhost:8000 -t web
 
 After this procceed to browser and open http://localhost:8000/bookings/create
